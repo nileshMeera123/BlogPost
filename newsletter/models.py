@@ -9,3 +9,6 @@ class SignUp(models.Model):
 
 	def __str__(self): #Python 3.3 is __str__
 		return self.email
+
+
+    #This is my command
